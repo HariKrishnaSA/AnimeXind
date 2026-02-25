@@ -52,3 +52,7 @@ https://github.com/user-attachments/assets/a45ce4ae-fbc6-405b-aabd-f3c43db2cc10
 
 
 
+
+
+**FOR HOW TO SETUP SEE THE "Setup.txt" FILE** 
+
