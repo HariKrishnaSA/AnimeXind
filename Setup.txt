@@ -1,0 +1,51 @@
+Step 1: Prepare Your Project Folder
+
+Create a folder named #Any_Name# on your computer.
+
+Place the following files inside that folder:
+
+Baackend.py (The Python FastAPI code).
+
+Frontend.html (The UI and AOS animation code).
+
+Updated Dataset.csv (Your filtered anime database).
+
+Original Dataset.csv (The full database with 12,294 entries).
+
+Step 2: Install Required Libraries
+
+Open VS Code, go to the Terminal (Ctrl + ` ), and run this command to install the necessary tools
+
+Step 3: Run the Backend Server
+
+In the same VS Code terminal, start your FastAPI server. 
+   
+	Bash
+		pip install fastapi uvicorn pandas
+
+  Wait for it says " Requirement satisfied "then
+
+	Bash 
+		python -m uvicorn Backend:app --reload
+
+This creates the link between your data and the website:
+
+Verification: You should see a message saying "Application startup complete" at http://127.0.0.1:8000.
+
+Keep this running: Do not close this terminal while using the app.
+
+Step 4: Launch the Frontend
+
+---> In VS Code, open the file named Frontend.html.
+
+---> Click the Frontend ok
+
+Step 5: Explore the Features
+
+Once the browser opens, you can test your Level 1-3 milestones:
+
+Level 1: Click an anime card and use the "Watch Now" button to search on HiAnimes.se.
+
+Level 2: Observe the Deep Slate UI and the white filter panel.
+
+Level 3: Scroll down to see the AOS animations as new cards appear.
