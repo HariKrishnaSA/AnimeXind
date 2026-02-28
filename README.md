@@ -23,6 +23,7 @@ Data Handling: Pandas for efficient CSV manipulation and filtering.
 API: Jikan API (Unofficial MyAnimeList API).
 
 🌟 Project Milestones
+
 Level 1: Integrated dynamic streaming links using search-query encoding.
 
 Level 2: Refined the UI with a professional "Deep Slate" theme and custom CSS transitions.
